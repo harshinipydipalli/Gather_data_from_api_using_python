@@ -10,7 +10,7 @@ Original file is located at
 import requests
 
 #Your API key
-api_key = "3d688a950bf240b796963950251604"
+api_key = "yourapikey"
 
 
 base_url = "https://api.weatherapi.com/v1/current.json"
